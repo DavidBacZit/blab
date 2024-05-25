@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@cityofzion/neon-js": "^5.6.0",
+    "@cosmjs/proto-signing": "^0.32.3",
+    "@lunie/cosmos-keys": "^0.3.2",
+    "@noble/secp256k1": "^2.1.0",
+    "@onflow/sdk": "^1.5.0",
+    "@solana/web3.js": "^1.91.8",
+    "axios": "^1.7.2",
+    "bchaddrjs": "^0.5.2",
+    "bip32": "^4.0.0",
+    "bip39": "^3.1.0",
+    "bitcoincashjs-lib": "^3.3.3",
+    "bitcoinjs-lib": "^6.1.5",
+    "bsv": "^2.0.10",
+    "coinkey": "^3.0.0",
+    "cosmos-lib": "^1.1.0",
+    "crypto": "^1.0.1",
+    "eosjs": "^22.1.0",
+    "eth-hd-wallet": "^0.5.1",
+    "ethers": "^6.12.1",
+    "hdkey": "^2.1.0",
+    "litecore-lib": "^0.13.22",
+    "monero-javascript": "^0.8.4",
+    "monerojs": "^0.1.8",
+    "ripple-lib": "^1.10.1",
+    "tronweb": "^5.3.2",
+    "web3": "^4.8.0"
+  }
+}
